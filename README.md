@@ -1,4 +1,6 @@
 # SessionLibrary
+
+```javascript
  * Implements cookie-less JavaScript session variables
  * v1.0
  *
@@ -13,10 +15,11 @@
  * Session.set(name, object);
  *
  * // retreive a session value/object
- * Session.get(name);
+ -Session.get(name);
  *
  * // clear all session data
- * Session.clear();
+ -Session.clear();
  *
  * // dump session data
- * Session.dump();
+ -Session.dump();
+ ```
